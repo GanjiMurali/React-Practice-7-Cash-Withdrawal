@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  height: auto;
+  width: 500px;
+  background-color: #150b3e;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 30px;
+}
+.name-logo {
+  background-color: #c7d2fe;
+  height: 75px;
+  width: 75px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 42px;
+  margin-right: 12px;
+}
+.name-heading-container {
+  display: flex;
+  align-items: center;
+}
+.name {
+  color: #c7d2fe;
+  font-family: 'Roboto';
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+.bal-txt {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 'Bold';
+  font-size: 22px;
+}
+.balance {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.bal-txt2 {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: 'Bold';
+  font-size: 12px;
+}
+.btn-heading {
+  color: #c7d2fe;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: bold;
+}
+.btn-para {
+  color: #585076;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.ul-list {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}

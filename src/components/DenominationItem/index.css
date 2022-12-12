@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.each-list-item {
+  list-style-type: none;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.btn {
+  height: 52px;
+  width: 210px;
+  background-color: #382f5a;
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
